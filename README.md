@@ -11,7 +11,7 @@ Hello. This is my personal repo that I'd like to open source with everyone. You'
 
 I'm open to feedback and contributions on this. Please feel free to submit a [GitHub issue](https://github.com/davidhoang/dh/issues) or submit a pull request.
 
-### Resources
+## Resources
 * [Design Tools](design-tools)
 * [Reading List](resources/reading-list)
 * [Speaking](speaking)
@@ -19,4 +19,4 @@ I'm open to feedback and contributions on this. Please feel free to submit a [Gi
 ## Let's Connect
 I love connecting with humans and look forward to hearing from you
 * [Email](mailto:david@davidhoang.com)
-* [My Website](http://davidhoang.com)
+* [My Website](http://davidhoang.com){:target="_blank"}
