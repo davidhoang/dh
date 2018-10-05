@@ -69,7 +69,7 @@ Before:
 * [UXDX Link](http://uxdxconf.com)
 * [Slides]()
 
-### References
+## References
 * [Designer's Toolkit - Prototyping Tools, Cooper](https://www.cooper.com/prototyping-tools)
 * [Inventing on Principle - Bret Victor](https://vimeo.com/36579366)
 * [8 tips for creating a compellig product vision](https://www.romanpichler.com/blog/tips-for-writing-compelling-product-vision/)

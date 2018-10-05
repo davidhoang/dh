@@ -15,3 +15,8 @@ I'm open to feedback and contributions on this. Please feel free to submit a [Gi
 * [Design Tools](design-tools)
 * [Reading List](resources/reading-list)
 * [Speaking](speaking)
+
+## Let's Connect
+I love connecting with humans and look forward to hearing from you
+* [Email](mailto:david@davidhoang.com)
+* [My Website](http://davidhoang.com)
