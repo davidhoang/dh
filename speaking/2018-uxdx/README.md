@@ -1,7 +1,7 @@
 # Prototyping to the North Star
 Originally given at UXDX
 
-Note: These are not the exact content of my slides. You can download my slides here. This is a dynamic collection of talking points from my talk. Please feel free to submit a pull request or submit an issue with feedback!
+Note: These are not the exact content of my slides. You can download my slides [here](https://www.dropbox.com/s/g4bof6q8vy9c5dz/UXDX-PrototypingTheNorthStar%20%5BFINAL%5D.pdf?dl=0). This is a dynamic collection of talking points from my talk. Please feel free to submit a pull request or submit an issue with feedback!
 
 ## Conference Theme: It takes a team to build a great product
 Execution Track:
