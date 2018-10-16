@@ -1,7 +1,8 @@
 # Speaking
 
-## Resources to app
+## Websites to Find Proposals
 * [confs.tech](https://confs.tech)
+* [Find UX Events](https://www.finduxevents.com/ux-conferences-2019/)
 
 ## My Speaking History
 
