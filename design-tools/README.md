@@ -18,9 +18,11 @@ Below is a list of design tools to consider. The ones marked with a * are ones I
 * [Lens Studio](https://lensstudio.snapchat.com)
 * [Noodl](https://www.getnoodl.com)
 * Quartz Composer*
+* [Nodes](http://nodes.io/)
 * [Facebook Orgami](https://origami.design)
 * Vue.js
 * [Xcode*](https://developer.apple.com/xcode/)
+* [Webflow](https://webflow.com/)
 
 ### User Flows
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)

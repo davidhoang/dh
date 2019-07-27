@@ -6,6 +6,10 @@
 
 ## My Speaking History
 
+### 2019
+* November - Productized in Lisbon, Portugal
+* April – A panel conversation on designing for healthcare
+
 ### 2018
 * October – UXDX in Dublin, Ireland
 * September – UX Cambridge in Cambridge, UK – An introduction to human-centred design leadership
