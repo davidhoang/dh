@@ -22,11 +22,13 @@ Below is a list of design tools to consider. The ones marked with a * are ones I
 * [Facebook Orgami](https://origami.design)
 * Vue.js
 * [Xcode*](https://developer.apple.com/xcode/)
-* [Webflow](https://webflow.com/)
+* [Webflow*](https://webflow.com/)
 
 ### User Flows
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
-* [Overflow.io*](http://overflow.io)
+* [Overflow.io](http://overflow.io)
+* [Miro Board](http://miro.com)
+* [Mural](https://mural.co/)
 
 ### Text Editors
 * [Sublime Text](http://sublimetext.com)*
