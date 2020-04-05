@@ -12,7 +12,8 @@ Hello. This is my personal repo that I'd like to open source with everyone. You'
 I'm open to feedback and contributions on this. Please feel free to submit a [GitHub issue](https://github.com/davidhoang/dh/issues) or submit a pull request.
 
 ## Resources
-* [Design Tools](design-tools)
+* [Conference Talks](conference-talks)
+* [Design Resources](design-resources)
 * [Reading List](resources/reading-list)
 * [Speaking](speaking)
 
