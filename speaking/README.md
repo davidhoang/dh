@@ -3,11 +3,13 @@
 ## Websites to Find Proposals
 * [confs.tech](https://confs.tech)
 * [Find UX Events](https://www.finduxevents.com/ux-conferences-2019/)
+* [PaperCall](https://www.papercall.io)
 
 ## My Speaking History
 
 ### 2019
 * November - Productized in Lisbon, Portugal
+* November - No Code Conference in San Francisco, CA
 * April – A panel conversation on designing for healthcare
 
 ### 2018
