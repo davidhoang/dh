@@ -1,7 +1,12 @@
 # Reading List
 
-## Books
+## Management/Leadership Books
 * [Managing Humans by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
+
+## Design Books
+* [Articulating Design Decisions] by Tom Greever(http://shop.oreilly.com/product/0636920037422.do)
+
+## Brand and Marketing Books
 * [Play Bigger](https://www.playbigger.com/book)
 
 ## Blogs
@@ -17,7 +22,7 @@
 * [Truth About Design, Jamal Nichols](https://www.truthaboutdesign.com)
 * [UX Collective](https://uxdesign.cc)
 
-## Designers to follow on Medium
+## Designer Blogs
 * [Erika Hall](https://medium.com/@mulegirl)
 * [Julie Zhuo](https://medium.com/@joulee)
 * [Kelsey Scherer](http://www.kelseyscherer.com/writing)
