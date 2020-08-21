@@ -7,6 +7,9 @@
 
 ## My Speaking History
 
+### 2020
+* October - UCD Gather - [Descending the summit: empowering the next generation of design leaders](https://www.ucdgathering.net/programme/descending-summit-empowering-next-generation-design-leaders)
+
 ### 2019
 * November - Productized in Lisbon, Portugal
 * November - No Code Conference in San Francisco, CA
