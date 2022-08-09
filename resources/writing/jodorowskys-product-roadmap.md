@@ -4,7 +4,7 @@ January 23, 2021
 
 ![](https://assets-global.website-files.com/5da5f9d0d84df2344a0c152d/600c788bb7895321f0babc30_img-jodorowskysbacklog.jpg)
 
-I’ll share two stories you may not have heard of. These are stories of “the greatest film _never_ made” and “the most important dead company in Silicon Valley.” This is a story about what happens when projects with uncompromising visions collide with the production process to make it happen (and keep it alive)
+I’ll share two stories you may not have heard of. These are stories of “the greatest film _never_ made” and “the most important dead company in Silicon Valley.” This is a story about what happens when projects with uncompromising visions collide with the production process to make it happen (and keep it alive).
 
 In the 1970s, film director Alejandro Jodorowsky took on what people said was the impossible task, a film adaptation of Dune. If you don’t know who Jodorowsky is, he is a filmmaker known for his avant garde and wild ideas. Dune is a science fiction novel written by Frank Herbert in 1965 and considered by some critics to be the best science fiction book ever written—the bible of science fiction. A film adaptation was often believed as impossible due to the epic length and many storylines of the novel.
 

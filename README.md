@@ -1,4 +1,4 @@
-# Hi, I'm David
+# I'm David (DH)
 Last updated August 8, 2022
 
 I'm a product designer, angel investor, and writer. This is my personal repo that I'd like to open source with everyone. 
