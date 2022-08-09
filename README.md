@@ -1,24 +1,29 @@
-# David Hoang
-Hello. This is my personal repo that I'd like to open source with everyone. You'll find content here such as:
-* Assets and copy I use for my personal website
-* Speaking Resources
-* A list of frameworks, processes, and writing
+# Hi, I'm David
+Last updated August 8, 2022
 
-## My Design Principles
-* __Set your personal bar high__. Don't expect you to be a unicorn, but try
-* __Next executable step__. What’s the next executable step you can take to add value and make progress?
-* __Design is not magic__. It’s a rigorous process of exploration, iteration, and validation until you reach your outcome; a process that makes the end user feel like it is magic.
+I'm a product designer, angel investor, and writer. This is my personal repo that I'd like to open source with everyone. 
 
-I'm open to feedback and contributions on this. Please feel free to submit a [GitHub issue](https://github.com/davidhoang/dh/issues) or submit a pull request.
+## A bit about me
+- I currently work at [Webflow](http://webflow.com)
+- My previous life was focused on iOS and Mac design
 
 ## Resources
-* [Conference Talks](conference-talks)
-* [Resources](resources)
-* [Reading List](resources/reading-list)
-* [Speaking](speaking)
+Writing and content I created
+- [Speaking](speaking)
+- [Conference Talks](resources/conference-talks)
+- [Writing](writing)
 
-## Let's Connect
+## Recommendations
+Links and recommendations of other authors
+* [Recommendations](recommendations)
+	* [Reading List](recommendations/reading-list)
+
+## Connect
 I love connecting with humans and look forward to hearing from you
 * [Email](mailto:david@davidhoang.com)
-* [My Website](http://davidhoang.com)
+* [My website](http://davidhoang.com) built with [Webflow](http://webflow.com)
+* I write a newsletter called [Proof of Concept](http://proofofconcept.pub)
 * [Twitter](http://twitter.com/davidhoang)
+
+---
+I'm open to feedback and contributions on this. Please feel free to submit a [GitHub issue](https://github.com/davidhoang/dh/issues) or submit a pull request.
