@@ -22,7 +22,7 @@ Links and recommendations of other authors
 I love connecting with humans and look forward to hearing from you
 * [Email](mailto:david@davidhoang.com)
 * [My website](http://davidhoang.com) built with [Webflow](http://webflow.com)
-* I write a newsletter called [Proof of Concept](http://proofofconcept.pub)
+* I write a newsletter called [Proof of Concept](proofofconcept.pub)
 * [Twitter](http://twitter.com/davidhoang)
 
 ---
