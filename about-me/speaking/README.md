@@ -1,21 +1,26 @@
 # Speaking
+List of speaking events I've had the pleasure of participating in.
 
-## Websites to Find Proposals
-* [confs.tech](https://confs.tech)
-* [Find UX Events](https://www.finduxevents.com/ux-conferences-2019/)
-* [PaperCall](https://www.papercall.io)
 
-## My Speaking History
+## 2021
 
-### 2020
+**The career odyssey** 
+UCD Gathering
+November
+
+The universal challenges of every scaling design team
+Figma Config
+April
+
+## 2020
 * October - UCD Gather - [Descending the summit: empowering the next generation of design leaders](https://www.ucdgathering.net/programme/descending-summit-empowering-next-generation-design-leaders)
 
-### 2019
+## 2019
 * November - Productized in Lisbon, Portugal
 * November - No Code Conference in San Francisco, CA
 * April – A panel conversation on designing for healthcare
 
-### 2018
+## 2018
 * October – UXDX in Dublin, Ireland
 * September – UX Cambridge in Cambridge, UK – An introduction to human-centred design leadership
 * June – UX Scotland in Edinburgh, Scotland – Play the part: an introduction to technology experience prototyping
@@ -23,14 +28,14 @@
 * March – try! Swift Conference in Tokyo, Japan
 * February – Seattle Xcoders in Seattle, Washington
 
-### 2017
+## 2017
 * September – UX Cambridge (Link) | Video
 * September – SwiftConf in Cologne, Germany – (Link) | Video
 * June – Cocoa Conf Next Door in San Jose, California
 * March – Design for Healthcare: Designing For Doctors (Link)
 * March – Seattle Xcoders: Build Like a Kid
 
-### 2016
+## 2016
 * September – Real Talk Radio Podcast with Nicole Antoinette (Link)
 * September 29 – VanCocoa (Link)
 * September 14 to 16 – UX Cambridge (Link) | Talk Slides
@@ -39,10 +44,10 @@
 * April 14 – Seattle Xcoders: Me too! Designers working in Xcode|
 * April 6 – Tradecraft: Fast With Intent—Learning Through Rapid Prototyping
 
-### 2015
+## 2015
 * Seattle Prototyping for Designers – July 15
 * CocoaConf 2015 in Portland, Oregon – May 8 to 9: Designing For WATCH (Link)
 * Seattle Xcoders in Seattle, Washington – January 8: Designing for WATCH before it ships (Link)
 
-### 2013
+## 2013
 * Seattle Ignite: Coast-To-Coast: How to live in two cities (Link)

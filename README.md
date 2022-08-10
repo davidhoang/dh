@@ -5,6 +5,7 @@ I'm a product designer, angel investor, and writer. This is my personal repo tha
 
 ## A bit about me
 - I currently work at [Webflow](http://webflow.com)
+- I'm at Design Partner at [On Deck](http://beondeck.com)
 - My previous life was focused on iOS and Mac design
 
 ## Resources
