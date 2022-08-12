@@ -3,11 +3,12 @@
 Below is a list of design tools to consider. The ones marked with a * are ones I personally use and recommend.
 
 ### Brainstorming
-* [MindNode](https://mindnode.com)*
-* [Obsidian]()
+* [MindNode*](https://mindnode.com)
+* [Obsidian*]()
 
 ### Interface Design
-* [Figma](http://figma.com)*
+* Affinity Designer
+* [Figma*](http://figma.com)
 * [Sketch](http://sketchapp.com)
 
 ### Motion
@@ -21,15 +22,18 @@ Below is a list of design tools to consider. The ones marked with a * are ones I
 * [Lens Studio](https://lensstudio.snapchat.com)
 * [Noodl](https://www.getnoodl.com)
 * [ProtoPie](https://www.protopie.io)
-* Quartz Composer*
+* Quartz Composer
 * [Orgami Studio](https://origami.design)
 * Vue.js
 * [Xcode*](https://developer.apple.com/xcode/)
 
 ### User Flows
-* [Miro Board](http://miro.com)*
+* [Miro Board](http://miro.com)
 * [Mural](https://mural.co/)
+* OmniGraffle
 * [Whimsical](http://whimsical.com)
 
 ### Visual Programming
 * [Webflow](http://webflow.com)
+
+*Part of my tool stack

@@ -5,6 +5,7 @@
 
 ## Design books
 * [Articulating Design Decisions] by Tom Greever(http://shop.oreilly.com/product/0636920037422.do)
+* [Stuck](https://abbycovert.com/stuck/) by Abby Covert
 
 ## Brand and Marketing
 * [Play Bigger](https://www.playbigger.com/book)

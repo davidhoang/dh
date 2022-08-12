@@ -1,4 +1,4 @@
-## Career resources
+## Career recommendations
 
 
 ## Useful links and articles

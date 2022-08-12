@@ -1,7 +1,5 @@
 # Speaker Bio
 
-David Hoang leads a team of product designers who focus on human-centered design, rapid prototyping, and continous learning. He was previously an early member of ExactTarget's global accounts team, founder of an agency, Brand and Global Digital Marketing at HTC, and Director of Design at Black Pixel. He's had the pleasure of working with great clients such as Expedia, Inspirato, Nike, Nordstrom, Starbucks, Whole Foods and several other undisclosed accounts.
+David is a product designer, angel investor and writer focused on building products, companies, and teams. He is currently Head of Product Design at Webflow and previously led design at One Medical, Black Pixel, and founded his own product consultancy. He has an affinity for design/developer tools, two-sided marketplaces, and software that is impactful for consumers and enterprise. His areas of focus are generative research, prototyping, building scaling design teams, and new initiatives.
 
-He is currently the Head of Product Design at One Medical where he leads the design function and works with engineering and product leadership.
-
-David has a BFA in Visual Arts and his work is profoundly influenced by art, narrative and popular culture. He's based in San Francisco, California but his heart is in New York City.
+In his free time, David angel invests and advises for early stage startups. He taught User Experience at General Assembly and previously guest lecutred at institutions including The Copenhagen Institute of Interaction Design, The University of Washington, Duke University, and Hyper Island. He currently resides in California.
