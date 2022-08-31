@@ -26,11 +26,10 @@ I love connecting with humans and look forward to hearing from you
 ## Links
 Places I actually want you to find
 
-- Figma
+- [Figma](https://www.figma.com/@davidhoang)
 - [Pinterest](https://www.pinterest.com/davidhoang/)
 - [Read.cv](http://read.cv/davidhoang)
-- Webflow
-
+- [Webflow](https://webflow.com/dhstudios)
 
 ---
 I'm open to feedback and contributions on this. If you have suggestions, spot a typo, or want to share an ideas submit a [GitHub issue](https://github.com/davidhoang/dh/issues).

@@ -5,7 +5,8 @@ List of speaking events I've had the pleasure of participating in.
 (Limited booking)
 
 ## 2022
-(To be anounced)
+- November - Front Utah - [Leading and operating your design org](https://www.frontutah.com/workshops/instructor/davidhoang)
+- October - Maze: Disco - Prototyping towards outcomes
 
 ## 2021
 - November -  The career odyssey (keynote) - UCD Gathering 
