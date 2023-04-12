@@ -27,7 +27,6 @@ I love connecting with humans and look forward to hearing from you
 Places I actually want you to find
 
 - [Figma](https://www.figma.com/@davidhoang)
-- [Pinterest](https://www.pinterest.com/davidhoang/)
 - [Read.cv](http://read.cv/davidhoang)
 - [Webflow](https://webflow.com/dhstudios)
 
