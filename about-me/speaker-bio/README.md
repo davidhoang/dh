@@ -1,5 +1,0 @@
-# Speaker Bio
-
-David is a product designer, angel investor and writer focused on building products, companies, and teams. He is currently Head of Product Design at Webflow and previously led design at One Medical, Black Pixel, and founded his own product consultancy. He has an affinity for design/developer tools, two-sided marketplaces, and software that is impactful for consumers and enterprise. His areas of focus are generative research, prototyping, building scaling design teams, and new initiatives.
-
-In his free time, David angel invests and advises for early stage startups. He taught User Experience at General Assembly and previously guest lecutred at institutions including The Copenhagen Institute of Interaction Design, The University of Washington, Duke University, and Hyper Island. He currently resides in California.
