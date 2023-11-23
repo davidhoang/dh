@@ -12,7 +12,8 @@ There are three core areas in this repo:
 
 
 ## A bit about me
-- I currently work at [Webflow](http://webflow.com) and a big portion of my career was inspired by visual programming
+- I work at [Replit](http://replit.com)
+- Before, I led design at a visual development company, One Medical, and Black Pixel
 - My previous life was very focused on iOS and Mac design
 
 ## Connect
@@ -20,7 +21,7 @@ I love connecting with humans and look forward to hearing from you
 * [Email](mailto:david@davidhoang.com)
 * [My website](http://davidhoang.com) built with [replit](http://replit.com)
 * I write a newsletter called [Proof of Concept](proofofconcept.pub)
-* [Twitter](http://twitter.com/davidhoang)
+* [X/Twitter](http://twitter.com/davidhoang)
 
 
 ## Links

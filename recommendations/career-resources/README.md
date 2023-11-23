@@ -1,8 +1,9 @@
-## Career recommendations
+# Career resources
+A few links and resources I've found useful
 
 
 ## Useful links and articles
-* [An Essential Tool for Capturing Your Career Accomplishments](https://alistapart.com/article/the-career-management-document/) by [Jessica Ivins](http://jessicaivins.net)
+* [An Essential Tool for Capturing Your Career Accomplishments](https://alistapart.com/article/the-career-management-document/) by [Jessica Ivins](http://jessicaivins.net) - I highly recommend you creating your own!
 
 ## Job Boards
 A few sites to search for new roles
