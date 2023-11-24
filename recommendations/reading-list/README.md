@@ -3,6 +3,8 @@
 ## My top recommended reads
 - The Humane Interface by Jef Raskin
 - The Score Takes Care of Itself by Bill Walsh
+- Continuous Discovery Habits by Teresa Torres
+- Accelerate
 
 ## Leadership
 * [Managing Humans by Michael Lopp](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1430243147)
