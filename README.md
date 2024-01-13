@@ -1,9 +1,9 @@
 # I'm David (DH)
-_Last updated September 10, 2023_
+_Last updated January 13, 2024_
 
 Hello. My name is David, and I'm often referred to as DH. It's not a special nickname, mainly because there is always another David at companies I work. You can call me either, but never Dave (please).
 
-I'm a product designer, angel investor, and writer. This repo is public notes I'd like to share and open source to everyone. My ask is if you get something useful from this content to refer to it and provide attribution.
+I'm a designer, angel investor, and writer. This repo is public notes I'd like to share and open source to everyone. My ask is if you get something useful from this content to refer to it and provide attribution.
 
 There are three core areas in this repo:
 - [Resources](/resources): Content I've created that I feel comfortable calling my original work
@@ -21,7 +21,7 @@ I love connecting with humans and look forward to hearing from you
 * [Email](mailto:david@davidhoang.com)
 * [My website](http://davidhoang.com) built with [replit](http://replit.com)
 * I write a newsletter called [Proof of Concept](proofofconcept.pub)
-* [X/Twitter](http://twitter.com/davidhoang)
+* [Twitter](http://twitter.com/davidhoang)
 
 
 ## Links
