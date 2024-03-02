@@ -1,5 +1,5 @@
 # I'm David (DH)
-_Last updated January 13, 2024_
+_Last updated March 2, 2024_
 
 Hello. My name is David, and I'm often referred to as DH. It's not a special nickname, mainly because there is always another David at companies I work. You can call me either, but never Dave (please).
 
